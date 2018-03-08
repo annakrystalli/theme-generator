@@ -1,7 +1,9 @@
 # theme-generator
 Xaringan presentation theme generator
 
+Project to develop a toolkit to customise xaringan presentations interactively
 - theme generator from template given parameters
+- new div css generator?
 - interactive shiny app add-in to help select styling with theme previews. 
 
 
